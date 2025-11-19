@@ -54,43 +54,14 @@ and file integrity checking (SHA-256) — all through a clean and minimal GUI.
 🔓 After Decryption (Restored to Original)  
 ![Decrypted](screenshots/after_decryption.png)
 
+Perfect recovery of the original text.
 
-Perfect recovery of the original text:
-
-
-🗂️ Folder Structure
-
-secure-file-locker/
-│
-├── engines/
-│   ├── aes_engine.py
-│   ├── xor_engine.py
-│
-├── utils/
-│   ├── hasher.py
-│   ├── logger.py
-│
-├── gui_app.py
-├── main.py
-├── README.md
-│
-└── screenshots/
-    ├── disp1.png
-    ├── disp2.png
-    ├── before_encryption.png
-    ├── after_encryption.png
-    ├── after_decryption.png
-
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 Python 3
-
 Tkinter (GUI)
-
 Cryptography library (AES)
-
 Hashlib (SHA-256)
-
 Custom XOR Engine
 
 ▶️ How to Run
