@@ -1,0 +1,12 @@
+2025-11-19 20:51:42.287207 - AES encrypted: C:/Users/Dell/Downloads/iot.txt -> C:/Users/Dell/Downloads/iot.txt
+2025-11-19 20:52:06.597539 - AES decrypted: C:/Users/Dell/Downloads/iot.txt -> C:/Users/Dell/Downloads/iot.txt
+2025-11-19 20:52:40.310980 - XOR encrypted: C:/Users/Dell/Downloads/intern2.pdf -> C:/Users/Dell/Downloads/intern2.pdf
+2025-11-19 20:53:04.892234 - Hash checked for: C:/Users/Dell/Downloads/intern2.pdf
+2025-11-19 20:57:17.781829 - XOR decrypted: C:/Users/Dell/Downloads/intern2.pdf -> C:/Users/Dell/Downloads/intern2.pdf
+2025-11-19 21:03:45.242075 - AES encrypted: C:/Users/Dell/Downloads/sample.txt -> C:/Users/Dell/Downloads/sample_encrypted.txt
+2025-11-19 21:08:35.768932 - AES decrypted: C:/Users/Dell/Downloads/sample_encrypted.txt -> C:/Users/Dell/Downloads/sample_decrypted.txt
+2025-11-19 21:10:17.996378 - AES encrypted: C:/Users/Dell/Downloads/intern2.pdf -> C:/Users/Dell/Downloads/intern2_encrypted.pdf
+2025-11-19 21:11:44.231014 - AES decrypted: C:/Users/Dell/Downloads/intern2_encrypted.pdf -> C:/Users/Dell/Downloads/intern2_decrypted.pdf
+2025-11-19 21:50:31.635644 - Hash checked: C:/Users/Dell/Downloads/Screenshot 2025-11-19 205046(1).png
+2025-11-19 21:50:49.722410 - Hash checked: C:/Users/Dell/Downloads/Screenshot 2025-11-19 205046(1).png
+2025-11-19 23:16:21.098885 - AES decrypt failed
